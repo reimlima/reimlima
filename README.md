@@ -15,13 +15,15 @@ All repos are open to use under [MIT License], feel free to use it as you want, 
 
 #### Reach me out at:
 
-[![instagram-badge]][instagram-account] [![gmail-badge]][gmail] [![linkedin-badge]][linkedin-account] [![twitter-badge]][twitter-account]
+[![instagram-badge]][instagram-account] [![gmail-badge]][gmail] [![goodreads-badge]][goodreads-account] [![linkedin-badge]][linkedin-account] [![twitter-badge]][twitter-account]
 
 [//]: #
 [instagram-badge]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-account]: https://www.instagram.com/reinaldolimaphotography/
 [gmail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail]: mailto:reimlima@gmail.com
+[goodreads-badge]: https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white
+[goodreads-account]: https://www.goodreads.com/user/show/108404186-reinaldo
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-account]: https://www.linkedin.com/in/reinaldolima/
 [MIT License]: https://opensource.org/licenses/MIT
