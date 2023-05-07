@@ -12,6 +12,7 @@ All repos are open to use under [MIT License], feel free to use it as you want, 
 - :camera: Photography
 - :books: Books
 - :video_game: Console and Portable Games
+- :watch: Watches (Fix, Collect, Wear)
 
 #### Reach me out at:
 
